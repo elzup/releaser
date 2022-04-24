@@ -6,7 +6,7 @@ const IndexPage = () => (
     <h1>Hello Releaser 👋</h1>
     <p>PWA Release experiments</p>
     <p>
-      <a href="">GitHub Code</a>
+      <a href="https://github.com/elzup/releaser">GitHub Code</a>
     </p>
   </Layout>
 )
